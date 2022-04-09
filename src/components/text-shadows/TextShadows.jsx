@@ -7,7 +7,7 @@ const BoxShadows = () => {
     const DisplayOverlay = () => {
         return (
             <>
-                <div className="app__overlay">Copied!!!👍</div>
+                <div className="app__overlay">Copied!!!👍 </div>
             </>
         );
     };

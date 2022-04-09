@@ -1,4 +1,4 @@
-import BoxShadows from "./components/box-shadows/BoxShadows";
+import BoxShadows from "./components/text-shadows/TextShadows";
 
 function App() {
   return (
